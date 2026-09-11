@@ -1,3 +1,7 @@
+# ⚠ Notice ⚠
+This project is unmaintained. Please use updated fork that supports new versions by [@s1ddhants1](https://github.com/s1ddhants1) instead.
+https://github.com/s1ddhants1/SwiftBackupPrem
+
 # SwiftBackupPrem
 Swift Backup Premium LSPosed module (tested on v4.2.3, v4.2.5 and v5.0.4, but should also work on newer versions - thanks to [DexKit](https://github.com/LuckyPray/DexKit)).
 
